@@ -10,6 +10,7 @@ Outside of cups and rallies, you are expected to use VS Mode, with custom items 
 - Winning using a specific vehicle and a character/costume that uses it when driven by a CPU
 - Rallies (getting to a checkpoint first for each CC, completing for each CC and reaching each checkpoint)
 - Cups (getting 1st in each race, and winning and getting top 3 in the cup as a whole for each CC)
+- Winning at 1, 2, 3, 4, 5, 6, 7, 8, 10, 12, 14 and 16 unique tracks.
 
 ## Items
 - Tracks
