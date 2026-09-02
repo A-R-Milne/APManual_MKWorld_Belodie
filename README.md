@@ -76,4 +76,4 @@ With the exception of the Forest and Central biomes, which are always enabled, y
 - Toad's Factory (on border with Volcanic Biome)
 - Peach Stadium (on border with Caribbean Biome)
 ### No Biome
-- Rainbow Road (the usual unlock requirements still apply - one of each cup trophy, except for Special Cup)
+- Rainbow Road (to unlock it, you instead need one of each cup trophy, except for Special Cup)
